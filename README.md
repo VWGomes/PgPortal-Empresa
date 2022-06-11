@@ -1,2 +1,2 @@
-# WEB - PaginaPortal-Empresa
+# WEB - PgPortal-Empresa
 Site inicial para o portal de empresa
