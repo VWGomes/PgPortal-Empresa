@@ -1,2 +1,2 @@
 # WEB - PgPortal-Empresa
-Site inicial para o portal de empresa.
+Página inicial para o portal de empresa.
